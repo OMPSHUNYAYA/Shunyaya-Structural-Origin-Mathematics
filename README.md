@@ -35,8 +35,8 @@ SSOM makes **reliability visible at origin** — then collapses exactly to class
 ## 🔗 Quick Links
 
 ### **Docs**
-- [Concept Flyer (PDF)](docs/Concept-Flyer_SSOM.pdf)
-- [Full Specification (PDF)](docs/SSOM.pdf)
+- [Concept Flyer (PDF)](docs/Concept-Flyer_SSOM_v1.2.pdf)
+- [Full Specification (PDF)](docs/SSOM_v1.2.pdf)
 - [Quickstart Guide](docs/Quickstart.md)
 - [FAQ](docs/FAQ.md)
 
